@@ -1,0 +1,31 @@
+
+
+1. Challange to recall last class.
+
+2. Image using <img>
+
+3. Nesting.
+
+4. Internet superpowers -> Change the BBC news! 
+
+5. Interactive elements - button
+
+6. Interactive elements - input tags -> Experiment with input types
+
+7. Let's build Google!
+
+8. Aside: Anchor tags
+
+9. Add an anchor tag to Google.com
+
+10. Proper document structure
+
+11. Aside: Lists
+
+12. Personal webpage
+
+13. Adding our project to GitHub
+
+14. Deploying it to the web!
+
+15. Recap
